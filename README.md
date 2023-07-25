@@ -4,7 +4,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Rasif-Taghizada/count.svg"/>
 </p>
-<h2 align="center"> Hi there, I'm Habib <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
+<h2 align="center"> Hi there, I'm Rasif <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
 <h2/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rasif-Taghizada&theme=blue-green&show_icons=true" align="left" width="48%"/>
@@ -26,10 +26,9 @@ width="47%"/>
 
 [<img height="22" width="22" align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][Facebook]
 
-[Linkedin]: https://www.linkedin.com/in/habibfcn/
-[Instagram]: https://www.instagram.com/habibfcn1/
-[Facebook]: https://www.facebook.com/habibfcn1/
-[Twitter]: https://www.Twitter.com/habibfcn/
+[Linkedin]: https://www.linkedin.com/in/rasif-tagizada/
+[Instagram]: https://www.instagram.com/_.rasif._10/
+[Facebook]: https://www.facebook.com/rasiftaghizada
 
 <br />
 
@@ -45,23 +44,3 @@ width="47%"/>
 <img align="left" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-
-
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=habibfcn&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=habibfcn&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=habibfcn&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=habibfcn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=habibfcn&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
